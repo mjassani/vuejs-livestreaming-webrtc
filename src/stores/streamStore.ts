@@ -25,8 +25,8 @@ export const useStreamStore = defineStore('stream', () => {
     apiKey: apiKey,
     token: token,
     user: {
-      id: '3435f7e7-3bb8-4bc0-833c-447d2d79fbb0',
-      name: 'Supreme Leader Snoke',
+      id: 'webrtcuser',
+      name: 'webrtcuser',
       image: 'https://getstream.io/random_svg/?id=Snoke&name=Snoke'
     }
   })
